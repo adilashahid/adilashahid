@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning advanced microservices architecture
 - 💬 Ask me about C#, ASP.NET Core, SQL Server, or Angular
 - 📫 Reach me at: [adilashahid51@gmail.com](mailto:adilashahid51@gmail.com)
-- 📫Connect me :   https://www.linkedin.com/in/adilaakhtar/
-- 🌐 Personal Website: [adilaakhtar.com](https://adilaakhtar.com)
+- 📫Connect me :  https://www.linkedin.com/in/adila-akhtar-28678b342
+- 🌐 Personal Website: (https://adilaakhtar.com)](https://adila-akhtar.netlify.app/)
